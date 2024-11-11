@@ -1,5 +1,7 @@
 # Bearer App
 
+https://www.notion.so/RoR-project-Bearer-App-13b07f37c388805bb4f1d52a6bdbc295?pvs=4
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
